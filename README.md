@@ -1,3 +1,2 @@
-# Comment Translator
-
-Translates ONLY comments from one language to another within a codebase.
+# comment-translator
+Translates all comments in a codebase to a specified language
